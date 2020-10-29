@@ -1,2 +1,2 @@
-# Node.js-Dialogflow-Wsp-Chatbot
-Whatsapp Chatbot made with Node.js and Diagloflow
+# Node.js-Puppeteer-Wsp-Chatbot
+Whatsapp Chatbot made with Node.js and Puppeteer.
